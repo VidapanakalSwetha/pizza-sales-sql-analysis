@@ -9,7 +9,7 @@ covering aggregations, joins, and business-focused questions such as
 top-selling pizzas, revenue trends, and order patterns.
 
 ## Contents
-- `pizza-sales-sql-analysis.pdf` — Full project walkthrough (questions, 
+- `Pizza sales analysis using sql_compressed.pdf` — Full project walkthrough (questions, 
   SQL queries, and results)
 
 ## Tools Used
